@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wentinglou/Documents/NYU/OOP/lab2/bankAccount.cpp
+iostream
+-
+bankAccount.h
+/Users/wentinglou/Documents/NYU/OOP/lab2/bankAccount.h
+transactions.h
+/Users/wentinglou/Documents/NYU/OOP/lab2/transactions.h
+string
+-
+vector
+-
+ctime
+-
+
+/Users/wentinglou/Documents/NYU/OOP/lab2/bankAccount.h
+string
+-
+vector
+-
+transactions.h
+/Users/wentinglou/Documents/NYU/OOP/lab2/transactions.h
+
+/Users/wentinglou/Documents/NYU/OOP/lab2/transactions.h
+string
+-
+
